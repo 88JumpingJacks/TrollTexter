@@ -15,7 +15,7 @@ Download the appropriate Selenium WebDriver from [here](http://www.seleniumhq.or
 In your Java project, add all of the .jar files from the above download as Referenced Libraries.
 
 
-
+  
 If using Eclipse, do the following: 
 
 right-click on your Java project->Build Path->Configure Build Path  
