@@ -6,7 +6,9 @@ number over specified time intervals (ex. if 3 min is specified, any individual 
 be 0 to 3 min in length) and total time period. 
 
 
-Prerequisites:
+Alt-H2 Prerequisites:
+---------------------
+
 Add the TrollTexter.java file to your Java project.
 Download the appropriate Selenium WebDriver from [here](http://www.seleniumhq.org/download/).
 
