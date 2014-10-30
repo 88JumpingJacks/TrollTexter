@@ -18,5 +18,5 @@ In your Java project, add all of the .jar files from the above download as Refer
 
 If using Eclipse, do the following: 
 
-right-click on your Java project->Build Path->Configure Build Path
-Window will pop up->select Libraries->"Add External JARs..."->go to selenium folder and add all JAR files (including the ones outside of the libs folder)->Ok
+  right-click on your Java project->Build Path->Configure Build Path
+  Window will pop up->select Libraries->"Add External JARs..."->go to selenium folder and add all JAR files (including the ones   outside of the libs folder)->Ok
